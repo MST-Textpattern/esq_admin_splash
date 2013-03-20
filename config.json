@@ -1,0 +1,9 @@
+{
+    "name": "esq_adminsplash",
+    "version": 1.01,
+    "description": "Admin splash page for displaying help to clients etc.",
+    "type": 3,
+    "order": 5,
+    "flags": 0,
+    "help": "<p>Edit this plugin to configure it to your needs, then set 'Default admin tab' under Advanced in the Preferences tab to 'Admin Help' (or whatever you named your tab in the config).</p><p>See the <a href=\"http://txptips.com/documentation-page-for-clients\">TXP Tip</a> or <a href=\"http://forum.textpattern.com/viewtopic.php?id=34713\">forum thread</a> for more information on <strong>esq_adminsplash</strong>.</p>"
+}
